@@ -62,11 +62,6 @@
 + Unity-based astronaut training simulation
 + Microgravity reaction & coordination challenges
 + Gamifying space exploration education
-
-🌿 Vertical Farming CAD Model
-+ Fusion 360 prototype design
-+ Automated agriculture system
-+ Fighting food insecurity through innovation
 ```
 
 </div>
@@ -181,6 +176,6 @@ Whether it's **brain-computer interfaces**, **accessible tech**, **web developme
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=667eea&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Aarav0Maz)
 
 </div>
