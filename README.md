@@ -116,7 +116,7 @@ gantt
     Unity/Game Dev        :active, unity, 2023-01-01, 2025-06-20
     section Advanced
     BCI/Neurotech        :active, bci, 2023-09-01, 2025-06-20
-    CAD/3D Design        :active, cad, 2024-01-01, 2025-06-20
+    CAD/3D Design        :active, cad, 2021-03-01, 2025-06-20
 ```
 
 </div>
