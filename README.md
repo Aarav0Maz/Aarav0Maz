@@ -10,15 +10,7 @@
 
 *High school innovator passionate about engineering solutions where **neuroscience**, **hardware**, and **interactive design** converge*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+From+EEG+signals+to+React+dashboards;🌱+Open-source+tech+for+real-world+impact;🤝+Always+learning%2C+always+building;💡+4%2B+years+of+coding+experience;🧠+Bridging+neuroscience+%26+technology)](https://git.io/typing-svg)
-
-<div align="center">
-
-### **🔥 Live Contribution Streak**
-
-<img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff" width="60%">
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+From+EEG+signals+to+React+dashboards;🌱+Open-source+tech+for+real-world+impact;🤝+Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,58 +77,15 @@
 
 <div align="center">
 
-### **📊 Programming Journey & Skills**
+### **📊 GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff" width="48%" align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" width="48%" align="right">
 
+</div>
+
 <div style="clear: both;"></div>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" width="100%">
-
-</div>
-
-<div align="center">
-
-### **🚀 Experience Timeline**
-
-```mermaid
-gantt
-    title My Programming Journey
-    dateFormat  YYYY-MM-DD
-    section Core Programming
-    Python Development    :active, python, 2020-01-01, 2025-06-20
-    JavaScript/Web Dev    :active, js, 2021-03-01, 2025-06-20
-    section Specialized Skills
-    Arduino/Hardware      :active, hardware, 2022-01-01, 2025-06-20
-    React/Frontend        :active, react, 2022-06-01, 2025-06-20
-    Unity/Game Dev        :active, unity, 2023-01-01, 2025-06-20
-    section Advanced
-    BCI/Neurotech        :active, bci, 2023-09-01, 2025-06-20
-    CAD/3D Design        :active, cad, 2021-03-01, 2025-06-20
-```
-
-</div>
-
-<div align="center">
-
-### **⚡ Live Skill Metrics**
-
-<table align="center">
-<tr>
-<td align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&icon_color=667eea&layout=compact">
-</td>
-<td align="center">
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=radical">
-</td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
 
@@ -152,30 +101,6 @@ gantt
 ### **🎨 Design & Simulation**
 <img src="https://skillicons.dev/icons?i=unity,blender,threejs,figma,photoshop" />
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### **📈 Skill Progression Bars**
-
-![Python](https://img.shields.io/badge/Python-4+_years-blue?style=flat-square&logo=python&logoColor=white)
-![Progress](https://progress-bar.dev/95/?scale=100&title=Experience&width=400&color=3776AB)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3.5+_years-yellow?style=flat-square&logo=javascript&logoColor=black)
-![Progress](https://progress-bar.dev/90/?scale=100&title=Experience&width=400&color=F7DF1E)
-
-![React](https://img.shields.io/badge/React-2.5+_years-cyan?style=flat-square&logo=react&logoColor=white)
-![Progress](https://progress-bar.dev/85/?scale=100&title=Experience&width=400&color=61DAFB)
-
-![Arduino](https://img.shields.io/badge/Arduino-2+_years-teal?style=flat-square&logo=arduino&logoColor=white)
-![Progress](https://progress-bar.dev/80/?scale=100&title=Experience&width=400&color=00979D)
-
-![Unity](https://img.shields.io/badge/Unity-1.5+_years-black?style=flat-square&logo=unity&logoColor=white)
-![Progress](https://progress-bar.dev/75/?scale=100&title=Experience&width=400&color=100000)
-
-![BCI/Neurotech](https://img.shields.io/badge/BCI/Neurotech-1+_year-purple?style=flat-square&logo=brain&logoColor=white)
-![Progress](https://progress-bar.dev/70/?scale=100&title=Experience&width=400&color=9B59B6)
 
 </div>
 
