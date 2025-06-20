@@ -77,68 +77,33 @@
 
 <div align="center">
 
-### **📊 GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff" width="48%" align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" width="48%" align="right">
-
-</div>
-
-<div style="clear: both;"></div>
-
-<div align="center">
-
 ### **🔬 Hardware & Neurotech**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![OpenBCI](https://img.shields.io/badge/OpenBCI-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
 ![EEG](https://img.shields.io/badge/EEG_Processing-9B59B6?style=for-the-badge&logo=wave&logoColor=white)
 ![Serial](https://img.shields.io/badge/Serial_Comm-34495E?style=for-the-badge&logo=usb&logoColor=white)
 
-### **💻 Software & Development** 
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,js,html,css,tailwind,firebase,nodejs" />
+### **💻 Software & Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **🎨 Design & Simulation**
-<img src="https://skillicons.dev/icons?i=unity,blender,threejs,figma,photoshop" />
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 </div>
+
+---
 
 <div align="center">
 
-### **🎯 Coding Activity & Achievements**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0D1117&color=667eea&line=667eea&point=ffffff&hide_border=true" width="100%">
-
-</div>
-
-<div align="center">
-
-### **🏆 GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%">
-
-</div>
-
-<div align="center">
-
-### **⚡ Real-time Stats**
-
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" width="100%">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=radical" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=radical" width="48%">
-</td>
-</tr>
-</table>
-
-</div>
+## 🌱 **Currently Exploring**
 
 </div>
 
