@@ -8,7 +8,7 @@
 
 ### 🧠 Building the Future of **Brain-Computer Interfaces** & **Accessible Tech**
 
-*High school innovator passionate about engineering solutions where **neuroscience**, **hardware**, and **interactive design** converge*
+*Innovator passionate about engineering solutions where **neuroscience**, **hardware**, and **interactive design** converge*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+From+EEG+signals+to+React+dashboards;🌱+Open-source+tech+for+real-world+impact;🤝+Always+learning%2C+always+building)](https://git.io/typing-svg)
 
